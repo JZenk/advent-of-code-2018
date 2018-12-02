@@ -1,0 +1,29 @@
+{
+  "name": "advent-of-code-2018",
+  "version": "1.0.0",
+  "description": "My adventure with Advent of Code 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/.bin/eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JZenk/advent-of-code-2018.git"
+  },
+  "author": "JZenk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JZenk/advent-of-code-2018/issues"
+  },
+  "homepage": "https://github.com/JZenk/advent-of-code-2018#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
